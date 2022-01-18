@@ -15,3 +15,6 @@ To see how `ngx-webcam` is being used, take a closer look at these files:
 
 ## Issues
 Please open issues at the original <a href="https://github.com/basst314/ngx-webcam">ngx-webcam repository</a>.
+
+## About
+This is a sample was produced by [Blackjack Consultants](https://blackjackconsultants.com)
